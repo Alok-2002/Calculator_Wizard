@@ -1,4 +1,3 @@
-```markdown
 # Calculator_Wizard
 
 ![image](https://github.com/Alok-2002/Calculator_Wizard/assets/93814546/fd124b8d-7de3-49f5-9382-1f1a5aa0bc26)
@@ -62,4 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project was inspired by my love for web development and desire to create a useful tool for calculations.
 - Special thanks to Vercel for providing an excellent platform for deploying web projects.
-```
