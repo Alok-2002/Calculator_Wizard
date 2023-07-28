@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was inspired by my love for web development and desire to create a useful tool for calculations.
-- Special thanks to Vercel for providing an excellent platform for deploying web projects.
+- Special thanks to Vercel for providing an platform for deploying web projects.
